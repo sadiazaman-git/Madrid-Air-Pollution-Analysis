@@ -34,6 +34,5 @@ Install all required packages using:
 pip install -r requirements.txt
 
 
-git clone https://github.com/yourusername/madrid-pollution-dashboard.git
-cd madrid-pollution-dashboard
+git clone https://github.com/sadiazaman-git/Madrid-Air-Pollution-Analysis.git
 ```
