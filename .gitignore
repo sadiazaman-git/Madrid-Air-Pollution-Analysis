@@ -1,0 +1,8 @@
+# Ignore all files in the data folder
+data/*
+
+# Allow the folder itself (optional, for folder structure)
+!data/
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
