@@ -19,6 +19,7 @@ This project is designed to be easily reproducible. If you download the reposito
 │   ├── ...
 │   └── stations.csv
 ├── madrid_pollution_analysis.ipynb
+├── VDS2425_Project_Report_G12.pdf
 ├── README.md
 └── requirements.txt
 ```
